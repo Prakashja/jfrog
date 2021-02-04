@@ -1,12 +1,3 @@
-this is for testing
-Test
-12345
-Test2
-Testhttps://github.com/Prakashja/jfrog.git
-Test2
-Test3
-<<<<<<< HEAD
-This is a demo test
-=======
 
->>>>>>> 320b2215fb051b78e61258c03ce10b3044fb0e71
+This is a demo test
+
